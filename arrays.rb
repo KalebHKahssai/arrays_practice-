@@ -47,5 +47,13 @@ deposit_paid.push false
 #Removes the first true
 deposit_paid.shift
 
-# Adds false to the beginning 
+# Adds false to the beginning
 deposit_paid.unshift false
+
+
+=begin students = ["Cindy", "Jo", "Rigo"]
+        Student[0]
+        Cindy
+        Element's position in the array, starts with 0
+ =end
+ 
