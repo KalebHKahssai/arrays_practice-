@@ -56,4 +56,10 @@ deposit_paid.unshift false
         Cindy
         Element's position in the array, starts with 0
  =end
- 
+
+=begin delete_at
+a = ["cat", "dog", "bat"]
+a.delete.at 0
+
+Deletes index position 0
+=end
